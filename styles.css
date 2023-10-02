@@ -1,0 +1,30 @@
+
+header {
+    background: linear-gradient(to bottom, #007acc, #005c91);
+    color: white;
+    padding: 10px 0;
+    font-family: Arial, sans-serif;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+nav a:hover {
+    color: #ff9900;
+}
